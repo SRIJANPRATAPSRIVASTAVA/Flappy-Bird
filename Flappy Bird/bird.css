@@ -1,0 +1,16 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(47, 57, 77);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: antiquewhite;
+    /* height: 100vh; */
+}
+canvas{
+    box-shadow: black 20px 10px 50px;
+    background-color: rgb(244, 242, 238);
+}
